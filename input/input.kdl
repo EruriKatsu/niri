@@ -10,7 +10,7 @@ input {
                 map-to-focused-output 
         }
         keyboard {
-		numlock
+
                 repeat-delay 600
                 repeat-rate 50
                 track-layout "global"
