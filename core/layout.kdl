@@ -1,0 +1,41 @@
+ layout {
+        gaps 8
+        background-color "#472a3f"
+
+        preset-column-widths {
+                proportion 0.5
+                proportion 1.0
+        }
+
+        preset-window-heights {
+                proportion 0.5
+                proportion 1.0
+        }
+
+        focus-ring {
+                off
+        }
+
+        border {
+                off
+        }
+
+        shadow {
+                off
+        }
+
+        tab-indicator {
+                off
+        }
+
+        insert-hint {
+                off
+        }
+
+        struts {
+                left 4
+                right 4
+                top 4
+                bottom 4
+        }
+}
